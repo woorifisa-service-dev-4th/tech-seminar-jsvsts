@@ -23,6 +23,7 @@ $\color{gray}{\textsf{(누르면 발표자료 PDF로 넘어갑니다.)}}$
 1. https://www.samsungsds.com/kr/insights/ai-in-banking-in-2025.html (국내은행 사례)
 2. https://www.simform.com/blog/companies-using-nodejs/ (해외은행 사례)
 3. https://daily.dev/blog/top-10-javascript-communities-to-join-in-2024 (JS 커뮤니티 순위)
+4. https://rootstack.com/en/blog/javascript-developer-banking-project (은행-JS이점)
 
 <br/>
 
